@@ -1,0 +1,1 @@
+This repository contains an OpenFOAM case (windAroundBuildings_CFDHAM_veg) that we initially attempted to run using blueCFD and the WSL interface. However, both attempts resulted in the solver crashing while solving for the Building region.
